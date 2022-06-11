@@ -1,3 +1,9 @@
+{/*
+  options section and associates section can be specified by setting flatlist
+*/}
+
+
+
 import { View, Text, StyleSheet, ScrollView, FlatList } from 'react-native'
 import React, { useState, useEffect } from 'react'
 import Product from '../components/Product'
